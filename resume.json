@@ -35,10 +35,10 @@
       "startDate": "2016-01-01",
       "summary": "Leading development of the new exciting technology with chatbot and cognitive services (Artificial Intelligent).",
       "highlights": [
-        "Lead the development of the chatbot framework over S4B (Skype for Business) with UCMA (C#). Ultimately, enabled other organizations in the company to leverage the framework to build their own chatbots. Leaded the implementation of the smart chatbots that helped users to track and manage incidents/ work order, and also to proactively alert users when urgent matter needed to take action immediately.",
-        "Front-end development (JS, JQUERY, Bootstrap) over Fiori API to help users to manage vacation request and tracking. Get rid of manual effort by directly interfacing to the target vacation system through Odata APIs.",
+        "Lead the development of the chatbot framework over S4B (Skype for Business) with UCMA (C#). Ultimately, enabled other organizations in the company to leverage the framework to build their own chatbots. Lead the implementation of the smart chatbots that helped users to track and manage incidents/ work order, and also to proactively alert users when urgent matter needed to take action immediately.",
+        "Front-end development (JS, JQUERY, Bootstrap) over Fiori API to help users (US Employee) to manage vacation request and tracking. Get rid of manual effort by directly interfacing to the target vacation system through Odata APIs.",
         "Worked with the team to implement the Single Sign On solution for Sailpoint IdentityIQ application with the key data encrypted over MSSQL certification.",
-        "Built several automation tools with python and share within company community via internal Gitlab. ",
+        "Built several automation tools with Python and C# to help other developer do their work easier via internal Gitlab. i.e. Log Analyzer, LUIS Helper, API/Proxy Connector, etc.",
         "Developed small Sharepoint applications with Sharepoint API to help the team easily manage Sharepoint list."
       ]
     },
@@ -50,7 +50,7 @@
       "endDate": "2015-12-01",
       "summary": "Leading application and platform support.",
       "highlights": [
-        "Lead the support of the tier1 application (critical and strategic) ITSM (BMC Remedy Platform) and tier 2 HPOM (Monitoring Suite). Ensured SLA/SLO was met including weekend/oncall support.",
+        "Lead the support of the tier1 application (critical and strategic) BMC AR Remedy ITSM and Platform and tier 2 HPOM (Monitoring Suite). Ensured SLA/SLO was met including weekend/oncall support.",
         "Lead the problem investigation for 2 major/ high priority incidents to find root cause of the issue and ensured the fix applied timely to prevent from reoccurring.",
         "Lead the team to stabilize the HPOM platform; reduced sharply in the number of system outages and greatly improved system performance.",
         "Lead the team to optimize the automated incident creation logic and to improve automation process to decrease in the manual effort.",
@@ -82,8 +82,7 @@
         "Lead the development of automated end-to-end testing with QTP. Tests ran daily after build to ensure good quality product moved to higher environment tier.",
         "With C#, drove the initiative to developing the Auto Reply System over messaging platform. This system enabled the possibility of the automated test over the messaging platform.",
         "Test Arrays (Testbed) Setup and Database monitoring with MS Virtual Server",
-        "System Monitoring with Windows Performance Counter and WMI Performance Monitoring through VBScript language",
-        "OS patch analyzing for SQL database and IIS servers"
+        "System Monitoring with Windows Performance Counter and WMI Performance Monitoring through VBScript language"
       ]
     }
   ],
