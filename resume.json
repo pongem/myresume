@@ -1,0 +1,183 @@
+{
+  "basics": {
+    "name": "Pongsak Srithongnopawong",
+    "label": "Technical Lead",
+    "picture": "https://farm5.staticflickr.com/4450/37535050772_f8b23e35f0_b.jpg",
+    "email": "pongsak.s@gmail.com",
+    "phone": "(+66) 89-110-4911",
+    "website": "http://registry.jsonresume.org/pongsak",
+    "summary": "Pongsak is Technical Lead with experiences in Global Software Development and Support for Enterprise. Pongsak has started his career in IT industries in 2004 and been continuing to grow his technical knowledge and experiences in global environment. Pongsak loves coding as well as managing people. He's not only showing his passion in his codes but also to bringing his team toward organization's vision with creativity and innovation.",
+    "location": {
+      "address": "The Lighthouse, Soi Chaloen Nakon 14",
+      "postalCode": "10600",
+      "city": "Bangkok",
+      "countryCode": "TH",
+      "region": "Klongsarn"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "pongsak.s",
+        "url": "https://www.linkedin.com/in/pongsak-srithongnopawong-20096410/"
+      },
+      {
+        "network": "Github",
+        "username": "pongem",
+        "url": "https://github.com/pongem"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "ExxonMobil",
+      "position": "Technical Lead - Development",
+      "website": "http://www.exxonmobil.com",
+      "startDate": "2016-01-01",
+      "summary": "Leading development of the new exciting technology with chatbot and cognitive services (Artificial Intelligent).",
+      "highlights": [
+        "Lead the development of the chatbot framework over S4B (Skype for Business) with UCMA (C#). Ultimately, enabled other organizations in the company to leverage the framework to build their own chatbots. Leaded the implementation of the smart chatbots that helped users to track and manage incidents/ work order, and also to proactively alert users when urgent matter needed to take action immediately.",
+        "Front-end development (JS, JQUERY, Bootstrap) over Fiori API to help users to manage vacation request and tracking. Get rid of manual effort by directly interfacing to the target vacation system through Odata APIs.",
+        "Worked with the team to implement the Single Sign On solution for Sailpoint IdentityIQ application with the key data encrypted over MSSQL certification.",
+        "Built several automation tools with python and share within company community via internal Gitlab. ",
+        "Developed small Sharepoint applications with Sharepoint API to help the team easily manage Sharepoint list."
+      ]
+    },
+    {
+      "company": "ExxonMobil",
+      "position": "Technical Lead - Support",
+      "website": "http://www.exxonmobil.com",
+      "startDate": "2014-10-01",
+      "endDate": "2015-12-01",
+      "summary": "Leading application and platform support.",
+      "highlights": [
+        "Lead the support of the tier1 application (critical and strategic) ITSM (BMC Remedy Platform) and tier 2 HPOM (Monitoring Suite). Ensured SLA/SLO was met including weekend/oncall support.",
+        "Lead the problem investigation for 2 major/ high priority incidents to find root cause of the issue and ensured the fix applied timely to prevent from reoccurring.",
+        "Lead the team to stabilize the HPOM platform; reduced sharply in the number of system outages and greatly improved system performance.",
+        "Lead the team to optimize the automated incident creation logic and to improve automation process to decrease in the manual effort.",
+        "Worked with internal teams to setup operational dashboard with Splunk and performance tools. Enabled the support team to proactively see performance from different locations and captured pattern of error in log files."
+      ]
+    },
+    {
+      "company": "ExxonMobil",
+      "position": "Application Analyst",
+      "website": "http://www.exxonmobil.com",
+      "startDate": "2009-02-01",
+      "endDate": "2014-10-01",
+      "summary": "Running application support and development for application internally use in ExxonMobil.",
+      "highlights": [
+        "Lead the application development (C#) to build a toolkit to help planner manage budget and forecast for organizations. Centralized, standardized, and reduced in number of human error.",
+        "Lead the customization and development (ASP) for the packaging and deployment process tracking tool. Enabled the integration with newly adopted technology SCCM on MS WIN Server 2008.",
+        "Service Request Management (SRM) development (BMC Remedy Technologies). Built 10+ advanced request forms with complex process design template and automation integration such as server request form that could automatically provision new servers.",
+        "Provided technical support globally for IT enterprise application such as ITSM and Employee & Contractor Directory."
+      ]
+    },
+    {
+      "company": "Thomson Reuters",
+      "position": "Software QA",
+      "website": "http://www.exxonmobil.com",
+      "startDate": "2004-04-01",
+      "endDate": "2007-01-01",
+      "summary": "Design test strategy with automated testing and monitoring to ensure high quality with reasonable cost.",
+      "highlights": [
+        "Lead the development of automated end-to-end testing with QTP. Tests ran daily after build to ensure good quality product moved to higher environment tier.",
+        "With C#, drove the initiative to developing the Auto Reply System over messaging platform. This system enabled the possibility of the automated test over the messaging platform.",
+        "Test Arrays (Testbed) Setup and Database monitoring with MS Virtual Server",
+        "System Monitoring with Windows Performance Counter and WMI Performance Monitoring through VBScript language",
+        "OS patch analyzing for SQL database and IIS servers"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Asian Institute of Technology",
+      "area": "Computer Science specialized in Software Engineering",
+      "studyType": "Master",
+      "startDate": "2007-01-01",
+      "endDate": "2008-12-01",
+      "gpa": "3.58"
+    },
+    {
+      "institution": "Chulalongkorn University",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2000-04-01",
+      "endDate": "2004-04-01"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Using relative movement to support ANN-based stock forecasting in Thai stock market",
+      "publisher": "Inderscience",
+      "releaseDate": "2010-01-05",
+      "website": "http://www.inderscience.com/offer.php?id=30787",
+      "summary": "The paper proposes data preprocessing using relative movement to improve performance of ANN-based stock forecasting."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Coding",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "C#",
+        "NodeJS",
+        "ObjectiveC",
+        "Java",
+        "PHP",
+        "Ruby on Rails",
+        "Django"
+      ]
+    },
+    {
+      "name": "Artificial Intelligent",
+      "level": "Advanced",
+      "keywords": [
+        "Cognitive Services",
+        "MS LUIS",
+        "IBM WATSON"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "level": "Intermidiate",
+      "keywords": [
+        "Python",
+        "Jupyter",
+        "Scikit",
+        "Neural Network"
+      ]
+    },
+    {
+      "name": "MISC",
+      "keywords": [
+        "Agile",
+        "DevOps",
+        "Scrum",
+        "UCD"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Excellent Command"
+    },
+    {
+      "language": "Thai",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports"
+    },
+    {
+      "name": "Coding"
+    },
+    {
+      "name": "Travel"
+    }
+  ]
+}
